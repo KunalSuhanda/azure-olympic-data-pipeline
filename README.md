@@ -90,8 +90,27 @@ This project demonstrates an **end-to-end Data Engineering pipeline** built on *
 - **Python & SQL knowledge** (basic)
 - **Tableau Desktop** (for visualization)
 
-### 📌 **Setup Steps**
-1️⃣ **Clone this repository**  
-```bash
-git clone https://github.com/KunalSuhanda/azure-olympic-data-pipeline.git
-cd azure-olympic-data-pipeline
+---
+
+## 🔍 **Key Learnings**
+🔹 **End-to-End Data Engineering workflow** using Azure  
+🔹 **Cloud-based Data Pipelines** for large datasets  
+🔹 **Using Databricks for scalable transformations**  
+🔹 **Connecting SQL warehouses to BI tools (Tableau)**  
+
+---
+
+## 📌 **Next Steps & Future Improvements**
+🔹 Automate pipeline for **real-time data ingestion**  
+🔹 Integrate **Power BI** for alternative visualization  
+🔹 Implement **Machine Learning models** for predictive analysis  
+
+---
+
+## 📧 **Contact & Connect**
+💼 **Kunal Suhanda**  
+📩 Email: suhandakunal@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/kunalsuhanda)  
+🌍 [GitHub Repository](https://github.com/KunalSuhanda/azure-olympic-data-pipeline)  
+
+⭐ **If you like this project, please give it a STAR!** ⭐  
